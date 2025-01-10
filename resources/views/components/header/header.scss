@@ -1,3 +1,10 @@
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+// --
+
 .header {
     display: flex;
     background-color: #2d3748;
@@ -14,4 +21,5 @@ nav {
             color: white;
         }
     }
+
 }

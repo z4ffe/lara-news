@@ -20,6 +20,11 @@ body {
   color: #1a202c;
 }
 
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
 .header {
   display: flex;
   background-color: #2d3748;
